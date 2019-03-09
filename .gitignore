@@ -1,0 +1,12 @@
+# Ignore input and output files
+in
+out
+
+# Ignore Java class files
+*.class
+
+# Ignore C++ executable files
+*.out
+
+# Ignore vscode files
+.vscode/*
